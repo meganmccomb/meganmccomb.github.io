@@ -4,11 +4,17 @@
 
     /* FONTS */
 
-
+    --header-fonts: "Cambria";
+    --paragraph-fonts: "Courier New";
+    --h1-size: 3rem;
+    --h8-size: 1.125rem;
+    --paragraph-size: 1rem;
 
     /* COLORS */
 
-
+    --primary-color: snow;
+    --secondary-color: darkslategray;
+    --accent-color: lightskyblue;
 
     /* OTHER */
 
@@ -22,10 +28,6 @@ body {
     background: white;
     color: black;
     margin: 0;
-}
-
-button {
-    
 }
 
 /* INTRODUCTION */
