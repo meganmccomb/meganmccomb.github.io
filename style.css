@@ -56,12 +56,18 @@ p {
 
 /* INTRODUCTION */
 
-
+.intro {
+    background: var(--primary-color);
+}
 
 /* ABOUT ME */
 
-
+.about-me {
+    background: var(--secondary-color);
+}
 
 /* FOOTER */
 
-
+.footer {
+    background: var(--accent-color);
+}
